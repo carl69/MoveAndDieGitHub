@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1422070472193490524
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TestPlatform
+  m_Shader: {fileID: -6465566751694194690, guid: 2ddccb918c8edde46a20275f86c5e717,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_93A133F6:
+        m_Texture: {fileID: 2800000, guid: 958178420fb362444a199218b9ca9cdf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1C179BAB: 0.39
+    - Vector1_1FA44CA3: 0.69
+    - Vector1_3DC73551: 0.15
+    - Vector1_6502AE43: 1
+    - Vector1_777C03FF: 0.65
+    - Vector1_8A66271: 2.88
+    - Vector1_DAD07EFE: 0.61
+    - Vector1_F85C5029: 0.65
+    m_Colors:
+    - Color_A6107AA8: {r: 0, g: 1, b: 0.15451765, a: 1}

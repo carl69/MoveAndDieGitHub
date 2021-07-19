@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 68fcefe492fe4d349b1ca7b93a8d4bef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4729749096260714807
+    second: LevelButtonsFullAtlas_0
+  - first:
+      213: -5553667564803159137
+    second: LevelButtonsFullAtlas_1
+  - first:
+      213: -7698213095969979393
+    second: LevelButtonsFullAtlas_2
+  - first:
+      213: -759252456734931019
+    second: LevelButtonsFullAtlas_3
+  - first:
+      213: 5904263583392347685
+    second: LevelButtonsFullAtlas_4
+  - first:
+      213: -205441070935448417
+    second: LevelButtonsFullAtlas_5
+  - first:
+      213: -4840060386139205111
+    second: LevelButtonsFullAtlas_6
+  - first:
+      213: -6439590959796468306
+    second: LevelButtonsFullAtlas_7
+  - first:
+      213: 3523737449754172783
+    second: LevelButtonsFullAtlas_8
+  - first:
+      213: -735127517292946915
+    second: LevelButtonsFullAtlas_9
+  - first:
+      213: -7864953594722808340
+    second: LevelButtonsFullAtlas_10
+  - first:
+      213: 143372951299530795
+    second: LevelButtonsFullAtlas_11
+  - first:
+      213: -889059827977256145
+    second: LevelButtonsFullAtlas_12
+  - first:
+      213: 370333900608930969
+    second: LevelButtonsFullAtlas_13
+  - first:
+      213: 2961050387770526566
+    second: LevelButtonsFullAtlas_14
+  - first:
+      213: -8783132296590072464
+    second: LevelButtonsFullAtlas_15
+  - first:
+      213: 8992046166163420292
+    second: LevelButtonsFullAtlas_16
+  - first:
+      213: -6473349030694163621
+    second: LevelButtonsFullAtlas_17
+  - first:
+      213: 6499348978434709389
+    second: LevelButtonsFullAtlas_18
+  - first:
+      213: 1850718584953823885
+    second: LevelButtonsFullAtlas_19
+  - first:
+      213: 6477876559831941936
+    second: LevelButtonsFullAtlas_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2856
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0d7b75e40fe70459816d4c99f3b66b
+      internalID: 4729749096260714807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2856
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5969f34beff236740ae58a2358802c6f
+      internalID: -5553667564803159137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 2856
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd689d1e30748640bb70d18050eaa35
+      internalID: -7698213095969979393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2380
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73d9d93f366e524bb4ee30f98f6a566
+      internalID: -759252456734931019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2380
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2955de1bdff71c49b14d8d45538c9ff
+      internalID: 5904263583392347685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 2380
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1e01aa0a294e941add7493fbcafde0
+      internalID: -205441070935448417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1904
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01b25114fa105045936585f3d4229c2
+      internalID: -4840060386139205111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1904
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c09f924b83ab92409f1c47e386bb217
+      internalID: -6439590959796468306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1904
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1ce26b7daebb94abb8f47930ca2e73
+      internalID: 3523737449754172783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1428
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b61b689e3122014e812ac71de50395b
+      internalID: -735127517292946915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1428
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed622c9573955b74e8b4c733643e3d94
+      internalID: -7864953594722808340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1428
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9334214e31c3e3044b736176554ca6eb
+      internalID: 143372951299530795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61383bfb2863194f927c2268c64c2cc
+      internalID: -889059827977256145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 952
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc25f0627a38b3d45926c2dbcddc7ab7
+      internalID: 370333900608930969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 952
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ba4e9ef86c40748bfcd0fc27f039b5
+      internalID: 2961050387770526566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b094de65427e4b94cb4d74fe5c14b752
+      internalID: -8783132296590072464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 476
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cd0c969b54e424abc9547590afcc0e
+      internalID: 8992046166163420292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 476
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3b1c3dda5fe3440ae3bce282a672b7
+      internalID: -6473349030694163621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0209daaf14f6e0346ac32a4ecc8fed92
+      internalID: 6499348978434709389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108cd9cd399fa85409b6db5f661927ab
+      internalID: 1850718584953823885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LevelButtonsFullAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 0
+        width: 911
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc6b9693e2f5f4a9b34040cb8af875
+      internalID: 6477876559831941936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b8b434c9d189ea64584c54c31aafe491
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

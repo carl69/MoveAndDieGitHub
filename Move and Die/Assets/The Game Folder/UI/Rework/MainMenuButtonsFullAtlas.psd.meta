@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: cee8bb7c8ab42d84eab00cb1314e3959
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2799764492503368772
+    second: MainMenuButtonsFullAtlas_0
+  - first:
+      213: -2563695979187689758
+    second: MainMenuButtonsFullAtlas_1
+  - first:
+      213: 4432373465861518772
+    second: MainMenuButtonsFullAtlas_2
+  - first:
+      213: -4520891798261161617
+    second: MainMenuButtonsFullAtlas_3
+  - first:
+      213: -3836181956889945792
+    second: MainMenuButtonsFullAtlas_4
+  - first:
+      213: -3224602059878848921
+    second: MainMenuButtonsFullAtlas_5
+  - first:
+      213: 8503243130864122854
+    second: MainMenuButtonsFullAtlas_6
+  - first:
+      213: 1708894570856795768
+    second: MainMenuButtonsFullAtlas_7
+  - first:
+      213: -1264073244786137203
+    second: MainMenuButtonsFullAtlas_8
+  - first:
+      213: 9134671207127966850
+    second: MainMenuButtonsFullAtlas_9
+  - first:
+      213: -2837535182598135279
+    second: MainMenuButtonsFullAtlas_10
+  - first:
+      213: -8538957899273248064
+    second: MainMenuButtonsFullAtlas_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 2
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainMenuButtonsFullAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 911.3333
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0637e9894301b3c4694a4e8757d44034
+      internalID: 2799764492503368772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuButtonsFullAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 952
+        width: 911.3333
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a52d4eaf550654b839cbae384259f8
+      internalID: -2563695979187689758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuButtonsFullAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 952
+        width: 911.3333
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b469f8d7134cd141a5be858b9d8568c
+      internalID: 4432373465861518772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuButtonsFullAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 911.3333
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b538bbdc848035e45b3a359e40032a83
+      internalID: -4520891798261161617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuButtonsFullAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 476
+        width: 911.3333
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169e906d81e031c4592cbe6e12f083a2
+      internalID: -3836181956889945792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuButtonsFullAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 476
+        width: 911.3333
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b734737c38e5524486a4a85224f08ba
+      internalID: -3224602059878848921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuButtonsFullAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 911.3333
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b90ebb77ed6674491ab31eabdb14fd
+      internalID: 8503243130864122854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuButtonsFullAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 911.3333
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf4e7d57689d44489a706344e7f7f4d
+      internalID: 1708894570856795768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenuButtonsFullAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 0
+        width: 911.3333
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36e14da561797240941bd75250b3b11
+      internalID: -1264073244786137203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2677939784382a147a628de0b5d6abf5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 1
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
